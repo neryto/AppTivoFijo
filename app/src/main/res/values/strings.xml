@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppTivoFijo</string>
+    <string name="add">Add fixed asset</string>
+    <string name="no_data">Sin datos :( intenta registrar un activo fijo</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="date">Fecha adquisición</string>
+    <string name="save">Guardar</string>
+    <string name="accept">Aceptar</string>
+    <string name="request_permissions">Solicitud de permisos</string>
+    <string name="need_camera_permissions">Para continuar con esta funcionalidad es necesario que conceda los permisos de cámara</string>
+    <string name="need_camera_permissions_configurations">Para continuar con esta funcionalidad es necesario que conceda los permisos de cámara, favor de habilitarlos desde las configuraciones del sistema</string>
+    <string name="need_photo_data">Capture una fotografía para continuar</string>
+    <string name="need_type_data">Seleccione un tipo para continuar</string>
+    <string name="add_fixed_asset_success">Registro creado</string>
+    <string name="fixed_asset">Activo Fijjo</string>
+    <string name="acquisition">Adquisición: %s</string>
+    <string name="type">Tipo: %s</string>
+</resources>
